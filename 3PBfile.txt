@@ -1,1 +1,1 @@
-* version required by ProjectA 1.0
+* version required by ProjectA 2.0
